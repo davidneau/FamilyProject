@@ -6,8 +6,11 @@
                     Home
                 </v-list-item>
                 <v-list-item link to='/about'>
-                    About
+                    Pokedex
                 </v-list-item>    
+                <v-list-item link to='/pokemonSD'>
+                    Pokemon Showdown
+                </v-list-item> 
             </v-list>
         </v-navigation-drawer>
 

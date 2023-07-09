@@ -1,4 +1,4 @@
-# famproj
+# PokeStrat
 
 ## Project setup
 ```
